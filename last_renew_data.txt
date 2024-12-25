@@ -1,32 +1,4 @@
-Server ID: Unknown
-Renew status: Failed
-Last renewal time: 2024-12-24 07:23:44
-Error: Timeout error: Message: timeout: Timed out receiving message from renderer: -0.005
-  (Session info: chrome=131.0.6778.140)
-Stacktrace:
-	GetHandleVerifier [0x00007FF7FEEB6CC5+28821]
-	(No symbol) [0x00007FF7FEE23850]
-	(No symbol) [0x00007FF7FECC578A]
-	(No symbol) [0x00007FF7FECB3992]
-	(No symbol) [0x00007FF7FECB365A]
-	(No symbol) [0x00007FF7FECB1274]
-	(No symbol) [0x00007FF7FECB1D1F]
-	(No symbol) [0x00007FF7FECC084E]
-	(No symbol) [0x00007FF7FECD492D]
-	(No symbol) [0x00007FF7FECDB10A]
-	(No symbol) [0x00007FF7FECB2484]
-	(No symbol) [0x00007FF7FECD4753]
-	(No symbol) [0x00007FF7FED5F2F6]
-	(No symbol) [0x00007FF7FED3F0A3]
-	(No symbol) [0x00007FF7FED0A778]
-	(No symbol) [0x00007FF7FED0B8E1]
-	GetHandleVerifier [0x00007FF7FF1EFCCD+3408029]
-	GetHandleVerifier [0x00007FF7FF20743F+3504143]
-	GetHandleVerifier [0x00007FF7FF1FB61D+3455469]
-	GetHandleVerifier [0x00007FF7FEF7BDCB+835995]
-	(No symbol) [0x00007FF7FEE2EB6F]
-	(No symbol) [0x00007FF7FEE2A824]
-	(No symbol) [0x00007FF7FEE2A9BD]
-	(No symbol) [0x00007FF7FEE1A1A9]
-	BaseThreadInitThunk [0x00007FFD519A4CB0+16]
-	RtlUserThreadStart [0x00007FFD53A1EDCB+43]
+Server ID: 72f85ef8
+Renew status: Success
+Last renewal time: 2024-12-25 01:08:37
+New expiration time: 2025-01-07 07:07:43
