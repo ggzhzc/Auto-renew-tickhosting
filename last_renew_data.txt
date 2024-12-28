@@ -1,4 +1,4 @@
 Server ID: 9cc771f7
-Renew status: Success
-Last renewal time: 2024-12-26 05:18:03
-New expiration time: 2025-01-08 22:55:22
+Renew status: Failed
+Last renewal time: 2024-12-28 01:08:35
+Error: Time not extended
